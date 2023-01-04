@@ -42,6 +42,7 @@ installed as appropriate:
 
 * `pkg-config`
 * `openssl`
+* `libssl-dev` (Just maybe. I needed on one machine)
 * `libsodium` (if using voice)
 * `opus` (if using voice)
 * `ffmpeg` (if using ffmpeg features)
